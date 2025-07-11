@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Full-Stack Engineer
+# 👋 Hi, I'm Jhonrel Alvero Acharon — Full-Stack Engineer
 
 I'm a passionate Full-Stack Developer with a strong foundation in both frontend and backend technologies. I specialize in building robust, scalable web applications using **Python** and **JavaScript**. I love solving problems, learning new tools, and contributing to open-source.
 
@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer with a strong foundation in both frontend 
 - 🌱 Always learning more about **cloud infrastructure (AWS, Docker, CI/CD)** and **system design**
 - 💬 Ask me about Python, JavaScript, REST APIs, or anything web-related
 - ⚡ Fun fact: I started coding by automating daily tasks with Python scripts!
-- 📫 Reach me at: [your.email@example.com] or connect on [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me at: [jhonrel0216@gmail.com] or connect on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jhonrel-acharon-09a0a3373/))
 
 ## 🛠️ Tech Stack
 **Languages:**  

@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer with a strong foundation in both frontend 
 - 🌱 Always learning more about **cloud infrastructure (AWS, Docker, CI/CD)** and **system design**
 - 💬 Ask me about Python, JavaScript, REST APIs, or anything web-related
 - ⚡ Fun fact: I started coding by automating daily tasks with Python scripts!
-- 📫 Reach me at: [jhonrel0216@gmail.com] or connect on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jhonrel-acharon-09a0a3373/))
+- 📫 Reach me at: jhonrel0216@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/jhonrel-acharon-09a0a3373/)
 
 ## 🛠️ Tech Stack
 **Languages:**  

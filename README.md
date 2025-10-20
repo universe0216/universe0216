@@ -8,7 +8,6 @@ I'm a passionate Full-Stack Developer with a strong foundation in both frontend 
 - 💬 Ask me about Python, JavaScript, Go, or full-stack development
 - ⚡ Fun fact: I started coding by automating daily tasks with Python scripts!
 - 📫 Reach me at: jhonrel0216@gmail.com  
-- 🌐 Connect on [LinkedIn](https://linkedin.com/in/universe0216)
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +41,4 @@ I'm a passionate Full-Stack Developer with a strong foundation in both frontend 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
 [![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 
-## 📊 GitHub Stats
-![Jhonrel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=universe0216&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=universe0216&layout=compact&theme=tokyonight)
